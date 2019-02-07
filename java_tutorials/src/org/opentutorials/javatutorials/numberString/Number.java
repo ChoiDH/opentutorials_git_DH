@@ -1,4 +1,4 @@
-package org.opentutorals.javatutorials.numberString;
+package org.opentutorials.javatutorials.numberString;
 
 public class Number {
 
